@@ -7,6 +7,7 @@
     justify-content: space-evenly;
     color: white;
     margin-top: 10px;
+   
 
 }
 .logo{
@@ -17,7 +18,7 @@
 .text{
     margin: 5px 5px;
     font-size: 20px;
-    font-family: cursive;
+margin-top: 10px;
     font-weight: bold;
     color: #ff0000;
 }
@@ -39,7 +40,7 @@
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .img{
@@ -71,4 +72,7 @@
     padding-top: 20px;
     padding-top: 10px;
 }
-
+.baground
+{
+    background-color:#ffe6f9;
+}
